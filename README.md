@@ -5,7 +5,7 @@
 ### 💻 Aspiring Java Full Stack Developer | MCA Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome!+Nice+to+See+You+Here!" />
 </p>
 
 </div>
