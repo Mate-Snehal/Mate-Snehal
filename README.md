@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-Passionate about building modern web applications using Java, Spring Boot, React, and MySQL.<br>
-I enjoy learning new technologies and developing real-world full stack projects.
+Passionate about building modern web applications using Java, Spring Boot, React, HTML, CSS, JavaScript, and Python.<br>
+Currently learning and building real-world Full Stack projects.
 </p>
 
 ---
@@ -14,10 +14,10 @@ I enjoy learning new technologies and developing real-world full stack projects.
 ## 👨‍💻 About Me
 
 - 🎓 MCA Student
-- 🌱 Currently learning **Java Full Stack Development**
-- 💻 Skilled in **Java, Spring Boot, React, MySQL**
-- 🚀 Building real-world Full Stack Projects
-- 📚 Improving Java, SQL & DSA every day
+- 💻 Aspiring Java Full Stack Developer
+- 🌱 Currently learning Spring Boot & React
+- 🚀 Interested in Full Stack Web Development
+- 📚 Improving Java, Python & SQL Skills
 - 🎯 Goal: Become a Software Engineer
 
 ---
@@ -25,7 +25,7 @@ I enjoy learning new technologies and developing real-world full stack projects.
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,bootstrap,mysql,git,github,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,eclipse,vscode" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ I enjoy learning new technologies and developing real-world full stack projects.
 
 ### 💼 Online Job Portal
 - Spring Boot + React + MySQL
-- Job Posting & Job Application System
+- Job Posting & Job Application
 - User & Recruiter Authentication
 - Resume Upload & Job Search
 
@@ -74,25 +74,31 @@ I enjoy learning new technologies and developing real-world full stack projects.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Mate-Snehal">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
 ---
 
-## 📈 Profile Views
+## 👀 Profile Views
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mate-Snehal&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -103,5 +109,5 @@ I enjoy learning new technologies and developing real-world full stack projects.
 </h3>
 
 <p align="center">
-💙 Let's Connect, Learn & Build Amazing Java Full Stack Projects Together!
+💙 Let's Connect and Build Amazing Java Full Stack Projects Together!
 </p>
