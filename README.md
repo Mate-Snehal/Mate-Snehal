@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Snehal Mate
 
-### 💻 Aspiring Java Full Stack Developer | MCA Student
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome!+Nice+to+See+You+Here!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Welcome!+Nice+to+See+You+Here!" />
 </p>
+
+### 💻 Aspiring Java Full Stack Developer | MCA Student
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🎓 MCA Student
 - 💻 Passionate about Java Full Stack Development
 - 🌱 Currently learning **Spring Boot & React**
-- 🚀 Building scalable and user-friendly web applications
+- 🚀 Building modern and responsive web applications
 - 📚 Continuously improving Java, Python & Web Development skills
 - 🎯 Goal: Become a Software Engineer
 
@@ -26,39 +26,25 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,eclipse,vscode" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=eclipse" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Mate-Snehal">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mate-Snehal">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile!
+## ⭐ Thanks for Visiting My Profile!
 
-**Code • Learn • Build • Grow 🚀**
+### 💙 Code • Learn • Build • Grow 🚀
 
 </div>
