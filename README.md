@@ -1,93 +1,99 @@
-<h1 align="center">Hi 👋, I'm Snehal Mate</h1>
+<div align="center">
 
-<h3 align="center">💻 Java Full Stack Developer | MCA Student | Passionate Programmer 🚀</h3>
+# 👋 Hi, I'm Snehal Mate
 
-<p align="center">
-Learning • Building • Growing Every Day
-</p>
+### 🚀 Aspiring Java Full Stack Developer | MCA Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 💫 About Me
 
 🎓 MCA Student
 
-💻 Aspiring Java Full Stack Developer
+💻 Passionate about Java Full Stack Development
 
-🌱 Currently learning Spring Boot & React
+🌱 Currently learning **Spring Boot, React & REST APIs**
 
-📚 Love solving Java problems
+⚡ Love building real-world projects
 
 🎯 Goal: Software Engineer
 
+📖 Always exploring new technologies
+
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,eclipse,vscode" />
+
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,eclipse,vscode"/>
+
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 💼 Featured Projects
 
 ### 🎉 Event Management System
-✔ User Registration & Login
-
-✔ Event Booking
-
-✔ Admin Dashboard
-
-✔ Spring Boot + React + MySQL
+- Spring Boot + React + MySQL
+- User Registration & Login
+- Event Booking
+- Admin Dashboard
 
 ---
 
 ### 💼 Online Job Portal
-
-✔ Job Posting
-
-✔ Apply for Jobs
-
-✔ Resume Upload
-
-✔ Spring Boot + React + MySQL
+- Spring Boot + React + MySQL
+- Job Posting & Application
+- Recruiter & Candidate Login
+- Resume Upload
 
 ---
 
 ### 🛒 Grocery Management System
-
-✔ Product Management
-
-✔ Billing System
-
-✔ Inventory Tracking
-
-✔ Python + Flask + SQLite
+- Python + Flask + SQLite
+- Product & Inventory Management
+- Billing System
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mate-Snehal&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mate-Snehal&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mate-Snehal&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mate-Snehal&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Mate-Snehal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mate-Snehal&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -95,13 +101,13 @@ Learning • Building • Growing Every Day
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -111,8 +117,10 @@ Learning • Building • Growing Every Day
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ **"Code • Learn • Build • Repeat"** ⭐
+### 💙 *"Code • Learn • Build • Repeat"*
 
-</p>
+⭐ Thanks for visiting my profile!
+
+</div>
